@@ -30,4 +30,4 @@ To operate, an Issuer must run an [Issuer Node](https://0xpolygonid.github.io/tu
 
 Using Polygon ID, an Issuer can issue Credentials to their users.
 
-Alternatively, you can quickly try out the Credential Issuance experience using the <a href="https://0xpolygonid.github.io/tutorials/issuer/demo-issuer/" target="_blank">Demo Issuer</a>.
+Alternatively, you can quickly try out the Credential Issuance experience using the [Demo Issuer](https://0xpolygonid.github.io/tutorials/issuer/demo-issuer/).
