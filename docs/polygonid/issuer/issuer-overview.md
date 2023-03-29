@@ -24,7 +24,7 @@ An issuer might be:
 
 <a href="https://docs.iden3.io/protocol/claims-structure/" target="_blank">Claims</a> are a flexible data format able to express any type of information so that developers can unleash their creativity.
 
-To operate, an Issuer must run an <a href="https://0xpolygonid.github.io/tutorials/issuer-node/issuer-node-overview/" target="_blank">Issuer Node</a>, which is a self-hosted Node that exposes all the functionalities necessary to run an issuer.
+To operate, an Issuer must run an [Issuer Node](https://0xpolygonid.github.io/tutorials/issuer-node/issuer-node-overview/), which is a self-hosted Node that exposes all the functionalities necessary to run an issuer.
 
 ![image](https://user-images.githubusercontent.com/64640406/227472579-e9867f92-98d7-4b2a-89ce-d641f9f041ed.png)
 
